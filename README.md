@@ -1,8 +1,8 @@
 # iamshiv
 <p align="center">
-    <img src="Mxyank.png" width="180">
+    <img src="https://avatars.githubusercontent.com/u/74969179?v=4" width="180">
 </p>
-<h2 align="center"> Hey,Myself Shivansh Sharma (he/him)👋 </h2>
+<h2 align="center"> Hey,Shivansh here (he/him)👋 </h2>
 <h3 align="center"> DevOps🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
 
 ---
