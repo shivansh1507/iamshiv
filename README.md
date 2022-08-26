@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://avatars.githubusercontent.com/u/74969179?v=4" width="180">
 </p>
-<h2 align="center"> Hey,Shivansh here (he/him)👋 </h2>
+<h2 align="center"> Hey,Welcome to Shivansh github profile👋 </h2>
 <h3 align="center"> DevOps🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
 
 ---
