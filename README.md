@@ -2,6 +2,11 @@
 
 </p>
 <h3 align="center"> Software Developer👨‍💻 </h3>
+<h3 align="center">Exploring Dynamic Maps | Project Mapty</h3>
+<h3 align="center">Modern Banking Application | Project Bankist</h3>
+<h3 align="center">Capturing Moments | The Image Pixel</h3>
+<h3 align="center">Mastering Data Structures | LeetCode DSA</h3>
+<h3 align="center">Crafting Web Experiences | Project Tsunami Cafe</h3>
 
 ---
 
