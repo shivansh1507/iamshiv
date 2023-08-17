@@ -13,7 +13,7 @@
 
 - 🔭 Have played around with: 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,vim,arduino,aws,azure,bash,bootstrap,cpp,cassandra,py,discord,express,git,github,html,css,idea,gcp,java,js,linux,mongodb,mysql,nodejs,postgres,postman,powershell,react,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel,&perline=12"/>
+    <img src="https://skillicons.dev/icons?i=docker,arduino,aws,azure,bash,bootstrap,cpp,cassandra,py,discord,express,git,github,html,css,idea,gcp,java,js,linux,mongodb,mysql,nodejs,postgres,postman,powershell,react,redis,vscode,raspberrypi,cloudflare,php,r,vercel,&perline=12"/>
 </p>
 
 
