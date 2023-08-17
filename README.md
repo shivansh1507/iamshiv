@@ -5,10 +5,9 @@
 <h3 align="left">Exploring Dynamic Maps | Project Mapty</h3>
 <h3 align="left">Modern Banking Website| Project Bankist</h3>
 <h3 align="left">Capturing Moments | The Image Pixel</h3>
-<h3 align="left">Mastering Data Structures | LeetCode DSA</h3>
 <h3 align="left">Crafting Web Experiences | Project Tsunami Cafe</h3>
+<h3 align="left">Learning Data Structures | LeetCode DSA</h3>
 
----
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=shivansh1507&color=blueviolet&style=for-the-badge" />
