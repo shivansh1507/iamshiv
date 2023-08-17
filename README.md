@@ -17,7 +17,7 @@
 
 - 🔭 Have played around with: 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,arduino,aws,azure,bash,bootstrap,cpp,cassandra,py,discord,express,git,github,html,css,idea,gcp,java,js,linux,mongodb,mysql,nodejs,postgres,postman,powershell,react,redis,vscode,raspberrypi,php,r,&perline=12"/>
+    <img src="https://skillicons.dev/icons?i=docker,arduino,aws,azure,bash,bootstrap,cpp,cassandra,py,discord,git,github,html,css,gcp,java,js,linux,mongodb,mysql,nodejs,postgres,postman,powershell,react,redis,vscode,raspberrypi,php,r,&perline=10"/>
 </p>
 
 
