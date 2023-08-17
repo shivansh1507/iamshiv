@@ -1,12 +1,12 @@
-<h2 align="center">Hey,Shivansh here👋 </h2>
 
-</p>
-<h3 align="center"> Software Developer👨‍💻 </h3>
-<h3 align="center">Exploring Dynamic Maps | Project Mapty</h3>
-<h3 align="center">Modern Banking Application | Project Bankist</h3>
-<h3 align="center">Capturing Moments | The Image Pixel</h3>
-<h3 align="center">Mastering Data Structures | LeetCode DSA</h3>
-<h3 align="center">Crafting Web Experiences | Project Tsunami Cafe</h3>
+<h1 align="center">Shivansh Sharma</h1>
+<h2 align="center">These are My Projects</h2>
+
+<h3 align="left">Exploring Dynamic Maps | Project Mapty</h3>
+<h3 align="left">Modern Banking Website| Project Bankist</h3>
+<h3 align="left">Capturing Moments | The Image Pixel</h3>
+<h3 align="left">Mastering Data Structures | LeetCode DSA</h3>
+<h3 align="left">Crafting Web Experiences | Project Tsunami Cafe</h3>
 
 ---
 
@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=shivansh1507&color=blueviolet&style=for-the-badge" />
 </p>
 
-### Have Used these many tools 📈
+### Have Used these many tools during my coursework📈
 
 - 🔭 Have played around with: 
 <p align="center">
